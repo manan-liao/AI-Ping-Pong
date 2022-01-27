@@ -38,3 +38,14 @@ h4{
 .modal-dialog{
     width: 90%;
 }
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+canvas{
+    border-style:3px dashed white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px red;
+}

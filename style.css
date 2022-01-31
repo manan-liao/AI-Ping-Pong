@@ -45,7 +45,7 @@ body{
 }
 
 canvas{
-    border-style:3px dashed white;
+    border:3px dashed white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px red;
 }
